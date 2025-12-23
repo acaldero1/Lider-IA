@@ -1,0 +1,5 @@
+{
+  "name": "Consultor Arena IA",
+  "description": "An intelligent operations analyst that processes simulation Excel reports (e.g., Arena) to generate executive insights, KPIs, and visualizations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
